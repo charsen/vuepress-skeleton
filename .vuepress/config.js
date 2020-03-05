@@ -1,12 +1,13 @@
 module.exports = {
+    title: 'Crater',
     description: 'Crater is an open-source app made in Laravel, VueJS & React Native that helps you track expenses, payments & create professional invoices & estimates',
     head: require('./head'),
     themeConfig: {
-        // repo: 'https://github.com/Mulander-J/Wiki1001Pro.git',
-        // repoLabel: 'github',
+        repo: 'https://github.com/charsen/vuepress-skeleton.git',
+        repoLabel: 'github',
         logo: '/images/crater-logo.png',
         nav: require('./nav'),
-        sidebar: require('./sidebar'), // 这样引用后，每次修改 .sidebar.js 文件后都需要重新执行：vuepress dev
+        sidebar: require('./sidebar'), // 每次修改 sidebar.js 后都需要重新执行：vuepress dev
         sidebarDepth: 2,
         editLinks: true,
         editLinkText: 'Git EditLink',

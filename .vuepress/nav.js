@@ -1,5 +1,5 @@
 module.exports =  [
-    { text: 'Home1', link: '/' },
+    { text: 'Home', link: '/' },
     { text: 'Github', link: 'https://github.com/bytefury/crater' },
     { text: 'Website', link: 'https://craterapp.com' },
     {
