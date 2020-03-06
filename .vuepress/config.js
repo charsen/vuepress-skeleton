@@ -2,7 +2,7 @@ module.exports = {
     port: '7777',
     title: 'Charsen',
     titleHide: true,
-    description: 'Crater is an open-source app made in Laravel, VueJS & React Native that helps you track expenses, payments & create professional invoices & estimates',
+    description: 'For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life. (John3:16 KJV)',
     head: require('./head'),
     themeConfig: {
         repo: 'https://github.com/charsen/vuepress-skeleton.git',
