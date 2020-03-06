@@ -1,11 +1,11 @@
 module.exports =  [
     { text: 'Home', link: '/' },
-    { text: 'Github', link: 'https://github.com/bytefury/crater' },
+    { text: 'Guide', link: '/guide/' },
     {
         text: 'Languages',
         items: [
-          { text: 'English', link: '/language/chinese/' },
-          { text: 'Spanish', link: '/language/japanese/' }
+          { text: 'English', link: '/language/english/' },
+          { text: '中文', link: '/language/chinese/' }
         ]
     }
 ]

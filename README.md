@@ -1,8 +1,8 @@
 ---
 home: true
 lang: en-US
-heroText: Crater
-heroImage: /images/crater-logo.png
+heroText: God bless You, God love You
+heroImage: /images/logo.png
 actionText: Get Start →
 actionLink: /guide/
 features:
@@ -12,7 +12,7 @@ features:
   details: Enjoy the dev experience of Vue + webpack, use Vue components in markdown, and develop custom themes with Vue.
 - title: Performant
   details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
-footer: MIT Licensed | Copyright © 2020-present Crater
+footer: MIT Licensed | Copyright © 2020 Charsen
 
 ---
 

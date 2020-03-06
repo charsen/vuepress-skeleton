@@ -1,13 +1,13 @@
 module.exports = {
     port: '7777',
-    title: 'Crater',
+    title: 'Charsen',
     titleHide: true,
     description: 'Crater is an open-source app made in Laravel, VueJS & React Native that helps you track expenses, payments & create professional invoices & estimates',
     head: require('./head'),
     themeConfig: {
         repo: 'https://github.com/charsen/vuepress-skeleton.git',
         repoLabel: 'github',
-        logo: '/images/crater-logo.png',
+        logo: '/images/logo-en.png',
         nav: require('./nav'),
         sidebar: require('./sidebar'),
         sidebarDepth: 2,
@@ -28,6 +28,7 @@ module.exports = {
         ]
     ],
     extraWatchFiles: [
+      '.vuepress/head.js',
       '.vuepress/nav.js',
       '.vuepress/sidebar.js'
     ],
