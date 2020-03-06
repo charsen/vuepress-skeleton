@@ -1,7 +1,7 @@
-# Vuepress
+# Vuepress <Badge text="1.x"/>
 
 VuePress 是一个 `静态网站生成器`，使用它我们一方面可以专注输出技术类文档，也可以使用基于Vue的开发方式来开发我们其它的静态网站。
-每一个由 VuePress 生成的静态页面都是经过服务端渲染(SSR)而来，因此由 VuePress 生成的页面在加载性能和搜索引擎优化(SEO)上有很明显的优势。
+每一个由 VuePress 生成的静态页面都是经过服务端渲染(`SSR`)而来，因此由 `VuePress` 生成的页面在加载性能和搜索引擎优化(`SEO`)上有很明显的优势。
 
 ## 组成部分
 通常而言，一个由 VuePress 生成的网站，它是用 `Vue`、`Vue-router`、`Webpack` 以及利用服务端渲染(`SSR`)而来，它不仅支持 Vue 组件的写法，还内置 `Stylus` 语法。

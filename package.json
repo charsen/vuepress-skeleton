@@ -5,10 +5,9 @@
   "keywords": ["vuepress", "skeleton", "vuejs"],
   "author": "Charsen <http://www.charse.com>",
   "scripts": {
-    "dev": "vuepress dev .",
-    "build": "vuepress build .",
-    "deploy": "bash deploy.sh",
-    "pm2" : "pm2 start npm --watch --name vuepressskeleton -- run dev"
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "deploy": "bash deploy.sh"
   },
   "license": "MIT"
 }
