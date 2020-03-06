@@ -4,15 +4,10 @@ Crater is an open-source web & mobile app that helps you track expenses, payment
 
 Web Application is made using Laravel & VueJS while the Mobile Apps are built using React Native.
 
-## Features:
+## Resources
 
-- [Dashboard](./guide/dashboard.md)
-- [Customers](./guide/customers.md)
-- [Items](./guide/items.md)
-- [Estimates](./guide/estimates.md)
-- [Invoices](./guide/invoices.md)
-- [Payments](./guide/payments.md)
-- [Expenses](./guide/expenses.md)
-- [Taxes](./guide/taxes.md)
-- [Reports](./guide/reports.md)
-- [Settings](./guide/settings.md)
+### VuePress Comminity
+[Vist](https://vuepress.github.io/zh/) the page.
+
+### VuePress Intro
+[Vist](https://wangtunan.github.io/blog/vuepress/#%E4%BB%8B%E7%BB%8D) the page.

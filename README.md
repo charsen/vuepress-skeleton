@@ -35,3 +35,13 @@ npm run deploy
 
 # build&&pm2
 npm run server
+
+# run width pm2
+# npm i -g pm2
+npm run pm2
+
+# stop with pm2
+pm2 stop vuepressskeleton
+
+# restart with pm2
+pm2 restart vuepressskeleton
