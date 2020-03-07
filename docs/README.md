@@ -17,6 +17,7 @@ footer: MIT Licensed | Copyright © 2020 Charsen
 ---
 
 # Installation
+
 ```bash
 # clone item
 git clone git@github.com:charsen/vuepress-skeleton.git
