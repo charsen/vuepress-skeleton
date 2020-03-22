@@ -4,7 +4,7 @@ lang: en-US
 heroText: God bless You, God love You
 heroImage: /images/logo.png
 actionText: Get Start →
-actionLink: /Introduction.md
+actionLink: /guide/Introduction.md
 features:
 - title: Faith
   details: And now abideth faith, hope, charity, these three; but the greatest of these is charity. (1 Corinthians13:13 KJV)
